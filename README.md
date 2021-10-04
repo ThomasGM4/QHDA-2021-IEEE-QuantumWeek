@@ -1,7 +1,16 @@
 # Quantum Hardware Design and Analysis Workshop
-For the workshop Quantum Hardware Design and Analysis at IEEE Quantum Week 2021.
+@ IEEE Quantum Week 2021
+
 
 10:45-16:45 Mountain Time (MDT), Friday, Oct 22, 2021
+
+
+**Abstract**: How do we streamline the design and analysis of innovative superconducting quantum processors? The need for the scaling of and the growing diversity of circuit architectures makes this a question of central importance. Good solutions will need to smoothly orchestrate expertise and tools from traditionally disparate worlds. The microwave circuitry composing superconducting quantum chips can be readily simulated in classical software, but additional quantum analysis is required in order to find the Hamiltonian used to fully model the dynamics of the system, a necessary step to properly tune the quantum device. For large systems, this can be a very time consuming and complex process, requiring numerous iterations of computationally large simulations and slow feedback loops. The goal of this workshop is to bring together the diverse collection of experts in academia, industry and government, from EDA specialists to microwave engineers to quantum physicists, required to answer that question. They will discuss the current state of the field, such as established best practices and the ecosystem of open-source and commercial software. Vendors will showcase their proposed solutions for improved design and simulation, discussing where advancements are still necessary. Finally, state-of-the-art open-source endeavors that have been proposed will be presented, focusing on the community driven development and where such tools have been successful. The field has a growing need to establish software tools to enable the fast and easy design and analysis of quantum chips; this workshop aims to provide a forum for the community to do so.
+
+
+
+Thomas McConkey, Zlatko Minev, Nicholas Bronn: IBM Quantum, USA
+
 
 
 ## 10:45 - 12:15 Academic Session
