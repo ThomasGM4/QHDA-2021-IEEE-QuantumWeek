@@ -1,19 +1,21 @@
 # Quantum Hardware Design and Analysis Workshop
 @ IEEE Quantum Week 2021
 
+Registration available at https://qce.quantum.ieee.org/registration/.
 
 10:45-16:45 Mountain Time (MDT), Friday, Oct 22, 2021
 
 
-**Abstract**: How do we streamline the design and analysis of innovative superconducting quantum processors? The need for the scaling of and the growing diversity of circuit architectures makes this a question of central importance. Good solutions will need to smoothly orchestrate expertise and tools from traditionally disparate worlds. The microwave circuitry composing superconducting quantum chips can be readily simulated in classical software, but additional quantum analysis is required in order to find the Hamiltonian used to fully model the dynamics of the system, a necessary step to properly tune the quantum device. For large systems, this can be a very time consuming and complex process, requiring numerous iterations of computationally large simulations and slow feedback loops. The goal of this workshop is to bring together the diverse collection of experts in academia, industry and government, from EDA specialists to microwave engineers to quantum physicists, required to answer that question. They will discuss the current state of the field, such as established best practices and the ecosystem of open-source and commercial software. Vendors will showcase their proposed solutions for improved design and simulation, discussing where advancements are still necessary. Finally, state-of-the-art open-source endeavors that have been proposed will be presented, focusing on the community driven development and where such tools have been successful. The field has a growing need to establish software tools to enable the fast and easy design and analysis of quantum chips; this workshop aims to provide a forum for the community to do so.
+## Abstract
+
+How do we streamline the design and analysis of innovative superconducting quantum processors? The need for the scaling of and the growing diversity of circuit architectures makes this a question of central importance. Good solutions will need to smoothly orchestrate expertise and tools from traditionally disparate worlds. The microwave circuitry composing superconducting quantum chips can be readily simulated in classical software, but additional quantum analysis is required in order to find the Hamiltonian used to fully model the dynamics of the system, a necessary step to properly tune the quantum device. For large systems, this can be a very time consuming and complex process, requiring numerous iterations of computationally large simulations and slow feedback loops. The goal of this workshop is to bring together the diverse collection of experts in academia, industry and government, from EDA specialists to microwave engineers to quantum physicists, required to answer that question. They will discuss the current state of the field, such as established best practices and the ecosystem of open-source and commercial software. Vendors will showcase their proposed solutions for improved design and simulation, discussing where advancements are still necessary. Finally, state-of-the-art open-source endeavors that have been proposed will be presented, focusing on the community driven development and where such tools have been successful. The field has a growing need to establish software tools to enable the fast and easy design and analysis of quantum chips; this workshop aims to provide a forum for the community to do so.
 
 
 
-Thomas McConkey, Zlatko Minev, Nicholas Bronn: IBM Quantum, USA
 
+## Agenda
 
-
-## 10:45 - 12:15 Academic Session
+### 10:45 - 12:15 Academic Session
 | Time | Speaker | Topic |
 |------|---------|-------|
 |10:45 | **Nick Bronn** | Introduction |
@@ -24,7 +26,7 @@ Thomas McConkey, Zlatko Minev, Nicholas Bronn: IBM Quantum, USA
 |11:55 | **Andreas Wallraff** <br/> Full Professor in Physics *@* ETH Zürich | **TBD** |
 |      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/wallraff.jpg" alt="Wallraff" width="200">| |
 
-## 1:00 - 2:30 Commercial Software Session
+### 1:00 - 2:30 Commercial Software Session
 | Time | Speaker | Topic |
 |------|---------|-------|
 |1:00  |**Brian Rautio** <br/> VP Operations *@* Sonnet Software |  **TBD**  |
@@ -38,7 +40,7 @@ Thomas McConkey, Zlatko Minev, Nicholas Bronn: IBM Quantum, USA
 |2:00  |Moderator<br/>**John P. DeVale** <br/> Group Supervisor *@* The Johns Hopkins<br/> University Applied Physics Laboratory| **Panel Discussion** |
 |      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/devale.jpg" alt="DeVale" width="200">| |
 
-## 3:15 - 4:45 Open-source Software
+### 3:15 - 4:45 Open-source Software Session
 | Time | Speaker | Topic |
 |------|---------|-------|
 |3:15  |**Jens Koch** <br/> Associate Professor *@* Northwestern<br/> University | "scqubits: a Python package for superconducting qubits" |
@@ -53,3 +55,10 @@ Thomas McConkey, Zlatko Minev, Nicholas Bronn: IBM Quantum, USA
 |      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/rosen.jpg" alt="Rosen" width="200">| |
 
 
+### Organizers
+
+Thomas G. McConkey: IBM Quantum, USA
+
+Zlatko Minev: IBM Quantum, USA
+
+Nicholas Bronn: IBM Quantum, USA
