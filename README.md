@@ -35,7 +35,7 @@ How do we streamline the design and analysis of innovative superconducting quant
 |      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/nikellis.jpg" alt="Nikellis" width="200">|Abstract: |
 |1:30  |**Chris Mueth** <br/> Business Development, Marketing, and<br/> Technical Specialist *@* Keysight<br/> Technologies |  **TBD**  |
 |      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/mueth.jpg" alt="Mueth" width="200">|Abstract: |
-|1:45  |**David Correia** <br/> Sr. Principal Application Engineer<br/> *@* Cadence Design Systems|  **TBD** |
+|1:45  |**Davi Correia** <br/> Sr. Principal Application Engineer<br/> *@* Cadence Design Systems|  **TBD** |
 |      | |Abstract: |
 |2:00  |Moderator<br/>**John P. DeVale** <br/> Group Supervisor *@* The Johns Hopkins<br/> University Applied Physics Laboratory| **Panel Discussion** |
 |      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/devale.jpg" alt="DeVale" width="200">| |
