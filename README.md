@@ -16,7 +16,7 @@ How do we streamline the design and analysis of innovative superconducting quant
 ## Agenda
 
 ### 10:45 - 12:15 Academic Session
-| Time | Speaker | Topic |
+| Time<br/> &nbsp; | Speaker<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic<br/> &nbsp; |
 |------|---------|-------|
 |10:45 | **Nick Bronn** | Introduction |
 |10:50 | **David DiVincenzo** <br/> Director of the Institute of Theoretical<br/> Nanoelectronics at Forschungszentrum<br/> Jülich & co-director JARA Institute for<br/> Quantum Information | "History of Superconducting Qubits" |
@@ -27,17 +27,17 @@ How do we streamline the design and analysis of innovative superconducting quant
 |      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/wallraff.jpg" alt="Wallraff" width="200">|Abstract: |
 
 ### 1:00 - 2:30 Commercial Software Session
-| Time | Speaker | Topic |
+| Time<br/> &nbsp; | Speaker<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic<br/> &nbsp; |
 |------|---------|-------|
-|1:00  |**Brian Rautio** <br/> VP Operations *@* Sonnet Software |  **TBD**  |
-|      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/rautio.jpg" alt="Rautio" width="200">|Abstract: |
+|1:00  |**Brian Rautio** <br/> VP Operations *@* Sonnet Software |  "EM Simulation—when does it break?"  |
+|      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/rautio.jpg" alt="Rautio" width="200">| As a large, multi-decade industry full of strong and reliable products, it’s easy to trust the results of your EM simulator. However, at Sonnet, we can understand that simulation is inherently going to be wrong to some degree. The question we always need to ask is, “How wrong is my answer?” It’s a spectrum and the error margins may be insignificant to alarming, and the types of things we do and the way we drive our simulators can have a significant impact on that. Pushing the limit of physics means that we may be pushing the limits of our EM simulation as well, and this talk will help navigate that concept with awareness.|
 |1:15  |**Kostas Nikellis** <br/> Director of R&D *@* Ansys Inc. |  **TBD**  |
 |      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/nikellis.jpg" alt="Nikellis" width="200">|Abstract: |
-|1:30  |**Chris Mueth** <br/> Business Development, Marketing, and<br/> Technical Specialist *@* Keysight<br/> Technologies |  **TBD**  |
+|1:30  |**Chris Mueth** <br/> Business Development, Marketing, and Technical Specialist *@* Keysight Technologies |  **TBD**  |
 |      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/mueth.jpg" alt="Mueth" width="200">|Abstract: |
-|1:45  |**Davi Correia** <br/> Sr. Principal Application Engineer<br/> *@* Cadence Design Systems|  **TBD** |
-|      | |Abstract: |
-|2:00  |Moderator<br/>**John P. DeVale** <br/> Group Supervisor *@* The Johns Hopkins<br/> University Applied Physics Laboratory| **Panel Discussion** |
+|1:45  |**Davi Correia** <br/> Sr. Principal Application Engineer *@* Cadence Design Systems|  **TBD** |
+|      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/correia.jpg" alt="Correia" width="200">|Abstract: |
+|2:00  |Moderator<br/>**John P. DeVale** <br/> Group Supervisor *@* The Johns Hopkins University Applied Physics Laboratory| **Panel Discussion** |
 |      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/devale.jpg" alt="DeVale" width="200">| |
 
 ### 3:15 - 4:45 Open-source Software Session
