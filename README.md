@@ -16,11 +16,11 @@ How do we streamline the design and analysis of innovative superconducting quant
 ## Agenda
 
 ### 10:45 - 12:15 Academic Session
-| Time<br/> &nbsp; | Speaker<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic<br/> &nbsp; |
+| Time<br/> &nbsp; | Speaker<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic<br/> &nbsp; |
 |------|---------|-------|
 |10:45 | **Nick Bronn** | Introduction |
-|10:50 | **David DiVincenzo** <br/> Director of the Institute of Theoretical<br/> Nanoelectronics at Forschungszentrum<br/> Jülich & co-director JARA Institute for<br/> Quantum Information | "History of Superconducting Qubits" |
-|      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/divincenzo.jpg" alt="DiVincenzo" width="200"> |Abstract: |
+|10:50 | **David DiVincenzo** <br/> Director of the Institute of Theoretical Nanoelectronics at Forschungszentrum Jülich & co-director JARA Institute for Quantum Information | "History of Superconducting Qubits" |
+|      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/divincenzo.jpg" alt="DiVincenzo" width="200"> |When the "qubit" arrived on the intellectual scene, circa 1995, the pioneering work to see quantum effects in superconducting circuits had already been done. But the qubit paradigm gave a tremendous boost to this field. While old samples immediately came out of the drawer for looking more at their quantum coherence, it was clear that a radical and painful redo of the experimental approach was needed to really step positively forward towards Josephson quantum computing. I will touch on the major steps of this redo, about ten years in the making. For us at IBM at the time, it was a bruising but invigorating experience. |
 |11:35 | **Jonas Bylander** <br/> Associate Professor *@* Chalmers<br/> University of Technology | **TBD** |
 |      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/bylander.jpg" alt="Bylander" width="200">|Abstract: |
 |11:55 | **Andreas Wallraff** <br/> Full Professor in Physics *@* ETH Zürich | **TBD** |
