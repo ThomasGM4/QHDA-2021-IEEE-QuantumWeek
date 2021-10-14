@@ -41,7 +41,7 @@ How do we streamline the design and analysis of innovative superconducting quant
 |      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/devale.jpg" alt="DeVale" width="200">| |
 
 ### 3:15 - 4:45 Open-source Software Session
-| Time | Speaker | Topic |
+| Time<br/> &nbsp; | Speaker<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic<br/> &nbsp; |
 |------|---------|-------|
 |3:15  |**Jens Koch** <br/> Associate Professor *@* Northwestern<br/> University | "scqubits: a Python package for superconducting qubits" |
 |      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/koch.jpg" alt="Koch" width="200">|Abstract: |
@@ -49,8 +49,8 @@ How do we streamline the design and analysis of innovative superconducting quant
 |      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/facchini.png" alt="Facchini" width="200">|Abstract: |
 |3:45  |**Johannes Heinsoo** <br/> Senior Quantum Engnieer *@* IQM | KQCircuits |  **TBD** |
 |      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/heinsoo.jpg" alt="Heinsoo" width="200">|Abstract: |
-|4:00  |**Boxi Li** <br/> PhD Candidate *@* Forschungszentrum<br/> Jülich | QuTiP |  **TBD** |
-|      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/boxi.jpg" alt="Li" width="200">|Abstract: |
+|4:00  |**Boxi Li** <br/> PhD Candidate *@* Forschungszentrum<br/> Jülich | QuTiP | "Quantum Hardware Simulation with QuTiP" |
+|      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/boxi.jpg" alt="Li" width="200">|Simulating quantum dynamics is of essential importance in the design and engineering of various components in quantum hardware. The Quantum Toolbox in Python (QuTiP), one of the earliest open-source software packages in simulating quantum dynamics, has been widely used in developing qubits, quantum gates and measurement protocols. The package is now being developed under a worldwide collaboration and has grown rapidly in the last few years. In this talk, I will briefly present the basic functionality of the package and introduce a few new features that offer more flexibility in hardware simulation. In particular, in the next major version of QuTiP, qutip-v5, one will be able to define custom data types and ODE solvers as a plug-in package. Moreover, in the new sub-package, qutip-qip, we provide tools for circuit simulation at the level of time evolution, allowing studying various kinds of noise in the numerical simulation. |
 |4:15  |Moderator<br/>**Yaniv Rosen** <br/> Quantum Physicist *@* Lawrence<br/> Livermore National Lab | **Panel Discussion** |
 |      | <img src="https://github.com/ThomasGM4/QHDA-2021-IEEE-QuantumWeek/blob/main/Resources/rosen.jpg" alt="Rosen" width="200">| |
 
